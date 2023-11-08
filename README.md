@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @logansailer
 - 👀 I’m interested in software development, front-end or full-stack.
-- 🌱 I’m currently learning HTML and CSS and brushing up on Python and Java
-- 💞️ I’m looking to collaborate on anything I can help with, just want to learn as best as possible!
+- 🌱 I have experience with Python, SQL, C, JavaScript, HTML, CSS, and R, but am always eager for new challenges
+- 💞️ I’m looking to collaborate on anything I can help with so long as I can learn from it
 - 📫 Reach me at logansailer0633@gmail.com
 
 <!---
