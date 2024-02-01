@@ -1,7 +1,6 @@
 # Hello 👋
-
 My name is Logan. I am from the US, but I'm studying and teaching in Japan until July 2024 🗾.\
-Check out my website!
+Check out my website!\
 Reach me at logansailer0633@gmail.com 📫.
 
 # Technologies 💻
@@ -10,7 +9,7 @@ I also have experience writing programs using Python, SQLite, and C.\
 I’m interested in software development, front-end or full-stack.\
 
 # Outside of Coding
-I have a passion for languages. When I'm not learning new coding languages I'm studying foreign languages.\
+I have a passion for learning foreign languages and new recipies.\
 Nature lover and avid hiker 🏔️
 <!---
 logansailer/logansailer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
