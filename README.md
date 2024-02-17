@@ -9,7 +9,7 @@ I’m interested in software development; front-end and full-stack.
 
 # Outside of Coding
 I have a passion for learning foreign languages and new recipes.\
-Nature lover and avid hiker 🏔️
+Nature lover and hiker 🏔️
 <!---
 logansailer/logansailer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
