@@ -5,7 +5,7 @@ You can reach me at logansailer0633@gmail.com or by visiting my LinkedIn 📫.
 # Technologies 💻
 I have experience designing webpages using JavaScript, React, HTML, and CSS, but I always want to keep learning!\
 I also have experience writing programs using Python, SQLite, and C.\
-I’m interested in software development; front-end and full-stack.
+I’m interested in front-end and full-stack software development.
 
 # Outside of Coding
 I have a passion for learning foreign languages and new recipes.\
