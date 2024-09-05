@@ -1,4 +1,4 @@
-# Hey, I', Logan 👋
+# Hey, I'm, Logan 👋
 You can reach me at logansailer0633@gmail.com or by visiting my LinkedIn 📫.
 
 # Technologies 💻
