@@ -1,11 +1,10 @@
-# Hello 👋
-My name is Logan. I am from the US, but I'm studying and teaching in Japan until July 2024 🗾.\
+# Hey, I', Logan 👋
 You can reach me at logansailer0633@gmail.com or by visiting my LinkedIn 📫.
 
 # Technologies 💻
-I have experience designing webpages using JavaScript, React, HTML, and CSS, but I always want to keep learning!\
+I have experience designing webpages using JavaScript, React, HTML, and CSS, but I'm always learning!\
 I also have experience writing programs using Python, SQLite, and C.\
-I’m interested in front-end and full-stack software development.
+I’m interested in full-stack and front-end software development.
 
 # Outside of Coding
 I have a passion for learning foreign languages and new recipes.\
