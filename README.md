@@ -1,5 +1,5 @@
 # Hey, I'm, Logan 👋
-You can reach me at logansailer0633@gmail.com or by visiting my LinkedIn 📫.
+You can reach me at logansailer0633@gmail.com or by visiting my LinkedIn 📫.\
 Check out my website [here](https://logan-sailer.netlify.app/)
 
 # Technologies 💻
