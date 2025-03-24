@@ -5,8 +5,8 @@ Check out my website [here](https://logan-sailer.netlify.app/)
 # Technologies 💻
 Programming Languages: JavaScript, TypeScript, Python, C, R, SQL, HTML, CSS \
 Frameworks/Libraries: React, Node, Next.js, Redux, Express, Django, Playwright, Bootstrap, Tailwind CSS \
-Databases: Firebase, MongoDB\
-Tools: Git, Postman, Playwright, Vitest, Pytest, ESLint, VSCode \
+Databases: Firebase, MongoDB \
+Tools: Git, Postman, Playwright, Vitest, Pytest, ESLint, VSCode 
 
 # Outside of Coding
 I have a passion for learning foreign languages and new recipes. \
