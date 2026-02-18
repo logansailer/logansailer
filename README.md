@@ -7,8 +7,8 @@ You can click the Preview link to take a look at your changes.
 
 I am a Full-stack developer with a strong focus on building scalable, maintainable web applications. I enjoy working across the stack, from designing responsive frontends to developing secure backend APIs and managing databases.
 
-📫 **Contact:** You can reach me at logansailer0633@gmail.com or by visiting my [LinkedIn](https://www.linkedin.com/in/logan-sailer/) 📫. \
-🌐 **Portfolio:** Check out my portfolio [here](https://logan-sailer.netlify.app/).
+**Contact:** You can reach me at logansailer0633@gmail.com or by visiting my [LinkedIn](https://www.linkedin.com/in/logan-sailer/) 📫 \
+**Portfolio:** Check out my portfolio [here](https://logan-sailer.netlify.app/) 🌐 
 
 
 ## Tech Stack
