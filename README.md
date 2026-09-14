@@ -13,12 +13,6 @@ I am a Full-stack developer with a strong focus on building scalable, maintainab
 
 ## Tech Stack
 
-Programming Languages: JavaScript, TypeScript, Python, SQL, HTML/CSS, C, MASM Assembly
-Frameworks/Libraries: React, Vue.js, Next.js, Node.js, Express, Django, Flask, Bootstrap, Redux, Pinia, Tailwind
-Databases: MySQL, SQLite, Firebase, MongoDB
-Tools: Git, Amazon Web Services, Docker, GitHub Actions, Jira, Postman, Figma, Playwright, Pytest, AI Development
-
-
 ### Programming Languages
 - JavaScript · TypeScript · Python · HTML · CSSC · MASM Assembly · SQL
 
